@@ -1,0 +1,90 @@
+/*------FONTS------------*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cuprum&display=swap');
+
+/*----FAMILYFONTS-font-family: 'Cuprum', sans-serif;
+font-family: 'Fredoka', sans-serif;-----*/
+
+
+/*----------Header-----------*/
+
+header{
+    background-image: url('../images/Banff_Coverpic.jpg');
+    background-size:cover; 
+    background-position: center;
+    height: 80vh;
+}
+
+
+body{
+  
+    background-image: linear-gradient(to right top, #bdbe88, #cccea2, #dbddbc, #eaedd6, #fbfdf1);
+}
+
+
+/*-------------Navbar---------------*/
+.bg-purple{ /*------change the bg-purple color only in css---*/
+    background-color: #353705;
+}
+
+nav{
+    background-image: linear-gradient(to right top, #353705, #515b19, #6d822f, #86ac48, #9cd865);
+}
+
+.nav-link{
+    color: aliceblue !important; 
+}
+
+
+.row{
+    padding:50px;
+}
+
+
+.h1,h2{
+    font-family: 'Cuprum', sans-serif ;
+}
+
+.p{
+    font-family:'Fredoka', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------Footer----------*/
+footer a{
+    color: #9cd865;
+}
+
+i:hover{
+     color:#353705;
+}
+
+i:visited{
+    color: #111101;
+}
+
+
+/*--------Title and Paragraph Tags---------*/
+
+h2{
+
+    font-family:'Fredoka', sans-serif; 
+}
+
+p{
+
+    font-family:'Cuprum', sans-serif ;
+}
+
+
